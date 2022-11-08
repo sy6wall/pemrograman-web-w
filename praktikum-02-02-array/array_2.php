@@ -50,7 +50,7 @@ rsort($programmer_python);
  echo "</ul>";
 
  //Bagian 2
- array_push($programmer_php, "Jamaluddin T");
+ array_push($programmer_php, "muhammad syawal");
  echo "<br>Bagian 2 : <br>";
  echo "<ul>";
  $countProgrammerPhp = count($programmer_php);
