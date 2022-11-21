@@ -101,6 +101,7 @@
             </div>
               <button type="submit" class="btn btn-success">HITUNG</button>
               <p>
+                
               <?php
                $a_pertama = isset ($_POST["n_pertama"]) ? $_POST["n_pertama"] : "";
                $a_kedua = isset ($_POST["n_kedua"]) ? $_POST["n_kedua"] : "";
@@ -126,6 +127,7 @@
                  echo "# Sisa Hsail Bagi = ".($a_pertama % $a_kedua)."<br>";
                }
               ?>
+
           </form>
         </div>
       </div>
