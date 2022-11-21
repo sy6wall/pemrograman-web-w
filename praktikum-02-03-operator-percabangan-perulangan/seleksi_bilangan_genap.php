@@ -16,5 +16,5 @@ foreach ($data as $bilangan_genap)
     }
 }
 
-
+/*p*/
 ?>
