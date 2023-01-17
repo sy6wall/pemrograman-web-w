@@ -26,6 +26,7 @@
             <div class="col-sm-9">
               <input type="password" class="form-control" id="password" name="inputPassword">
             </div>
+    
           </div>
 
           <?php
