@@ -30,8 +30,8 @@
 
           <?php
             session_start();
-              $inputUsername = 'rahmat';
-              $inputPassword = '202022';
+              $inputUsername = 'syawal';
+              $inputPassword = '2020';
               if (isset($_POST['login'])) 
               {
                 if ($_POST['inputUsername'] == $inputUsername && $_POST['inputPassword'] == $inputPassword)
